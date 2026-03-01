@@ -4,7 +4,7 @@
 #
 
 # Replace with your Fly.io app name (run `fly apps create` to create one)
-app = "your-app-name"
+app = "fly-new-api"
 primary_region = "sjc"
 swap_size_mb = 512
 
